@@ -239,7 +239,7 @@ Chaque agent accumule :
 
 ## License
 
-MIT — Libre d'utiliser, modifier, déployer.
+Licence Apache-2.0
 
 ---
 
